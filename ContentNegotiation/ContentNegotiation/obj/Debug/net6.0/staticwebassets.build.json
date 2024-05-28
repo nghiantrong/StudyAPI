@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "yndWwHfAGdWnpHoGs97mJM/MowGaAT+dG6eHGGDSsE8=",
+  "Source": "ContentNegotiation",
+  "BasePath": "_content/ContentNegotiation",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
